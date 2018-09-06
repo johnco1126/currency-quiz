@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="header">United States currency quiz</string>
+    <string name="end">End quiz</string>
+
+
+    <!--Questions-->
+    <string name="questionOne">Question 1: Which of these people on United States currency was not a United States President?</string>
+    <string name="questionTwo">Question 2: Which of these values are current United States currency denominations? Hint: there may be more than one correct answer.</string>
+    <string name="questionThree">Question 3: What is the highest denomination of current United States currency?\n\nIs it $50, $100, or $500?</string>
+    <string name="questionFour">Question 4: Which United States President is on the $2 Note?</string>
+
+    <!--Question 1 choices-->
+    <string name="q1a1">Abraham Lincoln</string>
+    <string name="q1a2">Benjamin Franklin</string>
+    <string name="q1a3">George Washington</string>
+
+    <!--Question 2 choices-->
+    <string name="q2a1">$2</string>
+    <string name="q2a2">$5</string>
+    <string name="q2a3">$25</string>
+
+    <!--Question 3 choices-->
+    <string name="q3Hint">Enter a value from the above list.</string>
+
+    <!--Question 4 choices-->
+    <string name="q4a1">Abraham Lincoln</string>
+    <string name="q4a2">Benjamin Franklin</string>
+    <string name="q4a3">Thomas Jefferson</string>
+
+    <!--Score button-->
+    <string name="scoreButtonText">S c o r e</string>
+
+    <!--Score results message-->
+    <string name="resultsMessage"> of the 4 answers were correct</string>
+
+
+
+</resources>
